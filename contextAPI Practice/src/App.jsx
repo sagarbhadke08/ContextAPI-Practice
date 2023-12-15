@@ -9,7 +9,6 @@ function App() {
 
   return (
     <UserContextProvider>
-      <h1>Hi I m SDE at Tesla</h1>
       <Login></Login>
       <Profile></Profile>
     </UserContextProvider>
