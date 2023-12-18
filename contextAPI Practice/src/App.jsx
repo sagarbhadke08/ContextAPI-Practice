@@ -9,8 +9,8 @@ function App() {
 
   return (
     <UserContextProvider>
-      <Login></Login>
-      <Profile></Profile>
+      <Login/>
+      <Profile/>
     </UserContextProvider>
   )
 }
